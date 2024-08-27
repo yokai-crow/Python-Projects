@@ -1,2 +1,2 @@
 # Python-Projects
-Scraping, Automations, Conversions
+Scraping, Automations, Conversions.
